@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kensastr", "kensastr\kensastr.csproj", "{B50487E0-AC01-4B32-BF0D-E762EA8A09E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50487E0-AC01-4B32-BF0D-E762EA8A09E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50487E0-AC01-4B32-BF0D-E762EA8A09E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50487E0-AC01-4B32-BF0D-E762EA8A09E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50487E0-AC01-4B32-BF0D-E762EA8A09E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1216B7-5FC6-41E6-894F-E7AB36A9F46E}
+	EndGlobalSection
+EndGlobal
