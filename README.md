@@ -22,7 +22,9 @@
 
 master.csvが読み込まれて、初期データとなります。
 
-## お問い合わせ
+## 使わせていただいたコード
 
-お気軽にこちらからお問い合わせください。
+CSV読み込みのところは、次のサイト様のコードを使わせていただいております。
+
+https://www.oborodukiyo.info/Forms/VS2008/F-ReadCSVToDataTable
 
